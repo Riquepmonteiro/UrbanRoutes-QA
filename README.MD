@@ -38,3 +38,20 @@ Exemplo de bugs encontrados:
 
 - **URBR - 1**: Ao clicar no nome do local 'Hollywood', aparece um balão com informações.
 - **URBR - 2**: Ao clicar no campo "De", o campo não fica em branco.
+
+## Contribuição
+
+Contribuições são bem-vindas! Se você encontrar algum problema ou tiver sugestões para melhorias, fique à vontade para abrir uma issue ou enviar um pull request.
+
+ **Henrique Monteiro**
+QA Analyst
+"Qualidade não é um ato, é um hábito." - Aristóteles
+
+### Explicação
+
+- **Descrição do Projeto:** Uma visão geral do que é o site Urban Routes e seus objetivos.
+- **Testes de Regressão:** Explica a importância dos testes e as áreas cobertas.
+- **Relatório de Bugs:** Fornece uma visão geral dos problemas encontrados durante o teste.
+- **Contribuição:** Um convite para que outros contribuam com o projeto.
+
+Se precisar de ajustes ou mais detalhes, é só falar!
