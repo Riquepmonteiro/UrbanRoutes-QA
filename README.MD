@@ -53,5 +53,3 @@ QA Analyst
 - **Testes de Regressão:** Explica a importância dos testes e as áreas cobertas.
 - **Relatório de Bugs:** Fornece uma visão geral dos problemas encontrados durante o teste.
 - **Contribuição:** Um convite para que outros contribuam com o projeto.
-
-Se precisar de ajustes ou mais detalhes, é só falar!
